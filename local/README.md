@@ -14,3 +14,9 @@ Layouts to add to `.spacemacs`:
 ```
 evil-mc
 ```
+
+Load spacemacs config:
+
+```
+ln -s "$HOME~/.emacs.d/private/spacemacs" "$HOME/.spacemacs"
+```
