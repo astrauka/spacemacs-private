@@ -26,6 +26,7 @@ values."
      auto-completion
      better-defaults
      clojure
+     figwheel-repl
      emacs-lisp
      evil-mc
      git
