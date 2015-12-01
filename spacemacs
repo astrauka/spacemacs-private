@@ -38,6 +38,9 @@ values."
      spell-checking
      syntax-checking
      version-control
+     easy-indent-setup
+     ;; (easy-indent-setup :variables
+     ;;                    easy-indent-size 2)
      )
    ;; List of additional packages that will be installed without being
    ;; wrapped in a layer. If you need some configuration for these
