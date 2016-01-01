@@ -39,6 +39,7 @@ values."
      syntax-checking
      version-control
      easy-indent-setup
+     toggle-quotes
      ;; (easy-indent-setup :variables
      ;;                    easy-indent-size 2)
      )
